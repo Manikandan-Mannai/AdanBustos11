@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">I'm ADÁN BUSTOS GÁMEZ</h1> 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Segoe UI&color=22EBF7&size=25&center=false&lines=Hey!+it's+ADÁN BUSTOS GÁMEZ;DATA SCIENCE JUNIOR...;Data+Science+Enthusiast...;"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey!+it's+AD%C3%81N+BUSTOS+G%C3%81MEZ+;DATA+SCIENCE+JUNIOR...;Data+Science+Enthusiast...)](https://git.io/typing-svg)
 <!--  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 
 <img align="right" width=200px alt="Unicorn" src=https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp style="margin-top:50px"/>
